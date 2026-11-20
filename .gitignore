@@ -221,3 +221,5 @@ __marimo__/
 
 ./Synthetic_dataset
 /Synthetic_dataset
+yolo26n.pt
+.vscode
