@@ -1,0 +1,11 @@
+# YOLO26 Road Crack Detection - Requirements
+# Install PyTorch with ROCm first:
+#   pip install torch==2.13.0 torchvision==0.28.0 --index-url https://download.pytorch.org/whl/rocm7.1
+
+torch==2.13.0
+torchvision==0.28.0
+ultralytics>=8.3
+opencv-python-headless>=4.9
+pandas>=2.0
+matplotlib>=3.8
+numpy>=1.26
