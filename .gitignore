@@ -225,9 +225,7 @@ yolo26n.pt
 .vscode
 
 # Training outputs
-runs/
-models/
-results/
+
 
 # Prepared dataset (generated from source)
 Synthetic_dataset/road-defect-dataset-sample/dataset/
